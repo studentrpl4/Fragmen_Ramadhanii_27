@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fragmen_Ramadhanii_27</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="yurucamp">YuruCamp</string>
+    <string name="tidak_ada_pesan">tidak ada pesan</string>
+    <string name="scene_yuru_camp_s2">Scene Yuru Camp S2</string>
+    <string name="todo11">todo11</string>
+    <string name="home">home</string>
+    <string name="notification">notification</string>
+    <string name="settings">settings</string>
+</resources>
